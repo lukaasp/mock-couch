@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "ramda": "^0.8.0",
-    "restify": "^4.0.2",
+    "restify": "^3.0.3",
     "underscore": "^1.6.0",
     "couch-viewkey-compare": "^1.0.0"
   },
